@@ -1,2 +1,5 @@
 # MiniProjects
-- by Andrii Bilyk
+1. Tik Tak Toe
+
+
+by Andrii Bilyk
